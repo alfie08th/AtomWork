@@ -1,0 +1,18 @@
+.printcrow{
+  color: #000d1a;
+  font-size: 16px;
+  font-family: monospace;
+  font-weight: bold;
+}
+h1{
+  color: #000d1a;
+  font-family: monospace;
+  font-weight: bold;
+}
+*{
+  margin-left: 50px;
+}
+body{
+
+  margin-top:50px;
+}
