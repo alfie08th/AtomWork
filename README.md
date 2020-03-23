@@ -1,18 +1,41 @@
-# Installation
-> `npm install --save @types/nw.gui`
+# browser-window [![NPM version](https://badge.fury.io/js/browser-window.svg)](https://npmjs.org/package/browser-window) [![Build Status](https://travis-ci.org/jamen/browser-window.svg?branch=master)](https://travis-ci.org/jamen/browser-window) [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
-# Summary
-This package contains type definitions for node-webkit (https://github.com/rogerwang/node-webkit).
+> A helpful `BrowserWindow` wrapper.
 
-# Details
-Files were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/nw.gui
+```js
+// Initialize module
+const browser = require('browser-window')()
 
-Additional Details
- * Last updated: Mon, 19 Sep 2016 17:28:59 GMT
- * File structure: ProperModule
- * Library Dependencies: none
- * Module Dependencies: none
- * Global values: EventEmitter
+app.on('ready', () => {
+  // Create browser window
+  const window = browser({
+    title: 'Hello world',
+    width: 100,
+    height: 100
+  })
 
-# Credits
-These definitions were written by Pedro Casaubon <https://github.com/xperiments>.
+  // Load data
+  window.load('<p>Hi, how are you?</p>', {type: 'text/html'})
+
+  // Create children windows
+  const child = window.subwindow({title: 'Foo bar'})
+
+  // Send IPC messages
+  child.send('some-message', 1, 2, 3)
+})
+```
+
+## Installation
+
+```sh
+$ npm install --save browser-window
+```
+
+## Documentation
+
+ - [API Docs](docs/API.md)
+ - [Contributing](contributing.md)
+
+## License
+
+MIT © [Jamen Marz](https://github.com/jamen)
