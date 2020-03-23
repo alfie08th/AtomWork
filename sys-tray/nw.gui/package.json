@@ -1,0 +1,50 @@
+{
+  "_from": "@types/nw.gui",
+  "_id": "@types/nw.gui@0.0.20",
+  "_inBundle": false,
+  "_integrity": "sha1-tpD7u1AUBGYnN9uF1ZX96++6b5g=",
+  "_location": "/@types/nw.gui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/nw.gui",
+    "name": "@types/nw.gui",
+    "escapedName": "@types%2fnw.gui",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/nw.gui/-/nw.gui-0.0.20.tgz",
+  "_shasum": "b690fbbb501404662737db85d595fdebefba6f98",
+  "_spec": "@types/nw.gui",
+  "_where": "/Users/alfie/Downloads/front-end-chat",
+  "author": {
+    "name": "Pedro Casaubon",
+    "email": "https://github.com/xperiments"
+  },
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for node-webkit",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/nw.gui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "8d2cf55680191dc2805de45e68c32b129b39d5548dec6072cdc91c21ac6a8fdd",
+  "typings": "index.d.ts",
+  "version": "0.0.20"
+}
