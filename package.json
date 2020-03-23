@@ -1,16 +1,17 @@
 {
-  "_from": "browser-window",
-  "_id": "browser-window@0.4.0",
+  "_from": "@types/nw.gui",
+  "_id": "@types/nw.gui@0.0.20",
   "_inBundle": false,
-  "_integrity": "sha1-ThfvzMCWY6iBGtv+1jW3OKB07Uc=",
-  "_location": "/browser-window",
+  "_integrity": "sha1-tpD7u1AUBGYnN9uF1ZX96++6b5g=",
+  "_location": "/@types/nw.gui",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "browser-window",
-    "name": "browser-window",
-    "escapedName": "browser-window",
+    "raw": "@types/nw.gui",
+    "name": "@types/nw.gui",
+    "escapedName": "@types%2fnw.gui",
+    "scope": "@types",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,44 +20,31 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/browser-window/-/browser-window-0.4.0.tgz",
-  "_shasum": "4e17efccc09663a8811adbfed635b738a074ed47",
-  "_spec": "browser-window",
+  "_resolved": "https://registry.npmjs.org/@types/nw.gui/-/nw.gui-0.0.20.tgz",
+  "_shasum": "b690fbbb501404662737db85d595fdebefba6f98",
+  "_spec": "@types/nw.gui",
   "_where": "/Users/alfie/Downloads/front-end-chat",
   "author": {
-    "name": "Jamen Marz",
-    "url": "https://github.com/jamen"
+    "name": "Pedro Casaubon",
+    "email": "https://github.com/xperiments"
   },
   "bugs": {
-    "url": "https://github.com/jamen/browser-window/issues"
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
   },
   "bundleDependencies": false,
-  "dependencies": {
-    "assign-deep": "^0.4.5",
-    "event-callback": "^0.1.2",
-    "fast-args": "^1.0.0"
-  },
+  "dependencies": {},
   "deprecated": false,
-  "description": "A helpful `BrowserWindow` wrapper.",
-  "devDependencies": {
-    "eslint": "^3.8.0",
-    "eslint-config-standard": "^6.2.0",
-    "eslint-plugin-promise": "^3.0.0",
-    "eslint-plugin-standard": "^2.0.1"
-  },
-  "files": [
-    "index.js",
-    "lib"
-  ],
-  "homepage": "https://github.com/jamen/browser-window",
+  "description": "TypeScript definitions for node-webkit",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
   "license": "MIT",
-  "name": "browser-window",
+  "main": "",
+  "name": "@types/nw.gui",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jamen/browser-window.git"
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
   },
-  "scripts": {
-    "test": "eslint index.js"
-  },
-  "version": "0.4.0"
+  "scripts": {},
+  "typesPublisherContentHash": "8d2cf55680191dc2805de45e68c32b129b39d5548dec6072cdc91c21ac6a8fdd",
+  "typings": "index.d.ts",
+  "version": "0.0.20"
 }
