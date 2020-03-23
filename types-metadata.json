@@ -1,0 +1,25 @@
+{
+    "authors": "Pedro Casaubon <https://github.com/xperiments>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [],
+    "moduleDependencies": [],
+    "libraryMajorVersion": "0",
+    "libraryMinorVersion": "0",
+    "libraryName": "node-webkit",
+    "typingsPackageName": "nw.gui",
+    "projectName": "https://github.com/rogerwang/node-webkit",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "ProperModule",
+    "globals": [
+        "EventEmitter"
+    ],
+    "declaredModules": [
+        "nw.gui"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "8d2cf55680191dc2805de45e68c32b129b39d5548dec6072cdc91c21ac6a8fdd"
+}
