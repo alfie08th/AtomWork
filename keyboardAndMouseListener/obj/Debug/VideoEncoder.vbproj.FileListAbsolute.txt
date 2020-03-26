@@ -1,0 +1,11 @@
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\bin\Debug\VideoEncoder.exe.config
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\bin\Debug\VideoEncoder.exe
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\bin\Debug\VideoEncoder.pdb
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\bin\Debug\VideoEncoder.xml
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\VideoEncoder.Form1.resources
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\VideoEncoder.Resources.resources
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\VideoEncoder.vbproj.GenerateResource.Cache
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\VideoEncoder.exe
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\VideoEncoder.xml
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\VideoEncoder.pdb
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\VideoEncoder.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\bin\Debug\keyboardAndMouseListener.exe.config
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\bin\Debug\keyboardAndMouseListener.exe
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\bin\Debug\keyboardAndMouseListener.pdb
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\bin\Debug\keyboardAndMouseListener.xml
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\keyboardAndMouseListener.Form1.resources
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\keyboardAndMouseListener.Resources.resources
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\keyboardAndMouseListener.vbproj.GenerateResource.Cache
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\keyboardAndMouseListener.exe
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\keyboardAndMouseListener.xml
+C:\Users\yaniv\Documents\GitHub\Direct_Editor_Compiler\VideoEncoder\VideoEncoder\obj\Debug\keyboardAndMouseListener.pdb
